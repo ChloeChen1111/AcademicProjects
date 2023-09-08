@@ -1,0 +1,3 @@
+/Users/chloesenjo/Desktop/CS5005 DataStructure/HW/Lab1/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/chloesenjo/Desktop/CS5005 DataStructure/HW/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chloesenjo/Desktop/CS5005 DataStructure/HW/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
